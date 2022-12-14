@@ -1,4 +1,4 @@
 hello, this is a file for test.
 Now this is the second version
-my name is redQueen
+my name is redQueen, nice to meet you.
 Now this is the second version
